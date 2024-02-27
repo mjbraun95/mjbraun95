@@ -1,6 +1,8 @@
 ## 👋 Hi there! 
 I'm Matthew Braun, a soon-to-be graduate in Computer Engineering from the University of Alberta, set to complete my degree in April 2024. My academic and project experiences have fueled a deep passion for technology and innovation, particularly in the realms of artificial intelligence (AI), natural language processing (NLP), large language models (LLMs), and robotics. These interests have not only shaped my academic pursuits but have also guided the direction of my personal and team projects.
 
+[Personal Website](https://matthewbraun.ca)
+
 <!-- ## 💼 Professional Experiences
 Software Development and Engineering: During my internship with Alberta Electric System Operator (AESO), I dove deep into the world of energy market simulations. I crafted a Python-based model to simulate Alberta's power grid, embracing the shift towards renewable energy. Through designing UML diagrams and managing a comprehensive MS SQL database, I honed my skills in Python, database management, and data analysis, utilizing libraries like Pandas, NumPy, scikit-learn, and PySAM.
 
