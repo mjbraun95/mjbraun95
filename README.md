@@ -1,14 +1,14 @@
 ## 👋 Hi there! 
 I'm Matthew Braun, a soon-to-be graduate in Computer Engineering from the University of Alberta, set to complete my degree in April 2024. My academic and project experiences have fueled a deep passion for technology and innovation, particularly in the realms of artificial intelligence (AI), natural language processing (NLP), large language models (LLMs), and robotics. These interests have not only shaped my academic pursuits but have also guided the direction of my personal and team projects.
 
-## 💼 Professional Experiences
+<!-- ## 💼 Professional Experiences
 Software Development and Engineering: During my internship with Alberta Electric System Operator (AESO), I dove deep into the world of energy market simulations. I crafted a Python-based model to simulate Alberta's power grid, embracing the shift towards renewable energy. Through designing UML diagrams and managing a comprehensive MS SQL database, I honed my skills in Python, database management, and data analysis, utilizing libraries like Pandas, NumPy, scikit-learn, and PySAM.
 
 Web Development: At DevFacto, as a Software Consultant, I leveraged my expertise in C#, .NET Framework, SQL databases, React Framework, and TypeScript to develop and maintain robust web applications. Working within an agile environment, I practiced SCRUM methodologies, contributing to a team that valued collaboration, client consultation, and continuous delivery through Azure DevOps.
 
-Technical Support and IT Solutions: My role as a Worksite Support Technician for Compugen sharpened my problem-solving skills, providing technical support to Government of Alberta employees. This position solidified my understanding of network diagnostics, hard drive recovery, and hardware troubleshooting, laying a strong foundation for my technical acumen.
+Technical Support and IT Solutions: My role as a Worksite Support Technician for Compugen sharpened my problem-solving skills, providing technical support to Government of Alberta employees. This position solidified my understanding of network diagnostics, hard drive recovery, and hardware troubleshooting, laying a strong foundation for my technical acumen. -->
 
-## 🔨 Projects
+<!-- ## 🔨 Projects
 
 ### [Seed Planting Robot [Demo Video]](https://www.youtube.com/watch?v=pulFcguEh7g)
 - **Duration:** January 2023 - May 2023
@@ -78,7 +78,7 @@ Technical Support and IT Solutions: My role as a Worksite Support Technician for
 - **Highlights:** A musicboard interface using Python, C++, and ATmel ATMega2560, capable of generating various sound types and playing chords. 
 - **Technologies:** Python, C++, Arduino, PySerial, hardware interfacing
 
----
+--- -->
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjbraun95&theme=radical)
