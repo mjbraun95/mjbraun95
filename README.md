@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjbraun95&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjbraun95&langs_count=8&theme=merko&show_icons=true&border_color=hide_border&text_color=#2A7BE5&icon_color=#E94A47)](https://github.com/mjbraun95/github-readme-stats)
