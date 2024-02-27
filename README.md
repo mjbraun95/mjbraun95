@@ -3,6 +3,7 @@ I'm Matthew Braun, a soon-to-be graduate in Computer Engineering from the Univer
 
 [Personal Website](https://matthewbraun.ca)
 
+
 <!-- ## 💼 Professional Experiences
 Software Development and Engineering: During my internship with Alberta Electric System Operator (AESO), I dove deep into the world of energy market simulations. I crafted a Python-based model to simulate Alberta's power grid, embracing the shift towards renewable energy. Through designing UML diagrams and managing a comprehensive MS SQL database, I honed my skills in Python, database management, and data analysis, utilizing libraries like Pandas, NumPy, scikit-learn, and PySAM.
 
